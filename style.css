@@ -1,26 +1,32 @@
-.text {
-   border: 4px  solid brown;
-    background-color: rgb(145, 180, 246);
-    text-align: center;
-    border-radius: 200px;
-}
-.name{
-    color: darkgreen;
-}
 .title{
-    color: darkgreen;
-    background-color: yellow;
-    text-align: center;
+ width: 598px;
+ height: 97px;
+ margin-top: 36px;
+ margin-left: 399px;
+ padding: 10px;
+border: 2px solid #311313;
+text-align: center;
+font-size: 60px;background-color: #311313;
+color: white;
+align-content: center;
 }
-.jonat{
-    background-color: rgb(57, 139, 232);
-    width: 200px;
-    height: 50px;
-    color: white;
+.big{
+    width: 1000px;
+    height: 638px;
+    margin-top: 199px;
+    margin-left: 220px;
+    border: 10px solid #FF0606;
+    background-color: black;
 }
-.color{
-    background-color: black
+.small{
+    width: 917px;
+    height: 265px;
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: #1FE8B7;
+    font-size: 30px;
+    align-content: center;
 }
-.text2{
-    color: white ;
+.back{
+    background-color: rgb(23, 94, 84);
 }
